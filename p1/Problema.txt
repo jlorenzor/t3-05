@@ -1,0 +1,5 @@
+Pregunta 1.- Formatear el archivo de Vehículos eléctricos en USA ubicado en: 
+
+https://data.wa.gov/api/views/f6w7-q2d2/rows.xml?accessType=DOWNLOAD
+
+ utilizando hojas de estilo XSLT para que se muestre en una página web con filas de color alternante.
