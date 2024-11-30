@@ -1,0 +1,1 @@
+Pregunta 2.-  Formatee el archivo de la pregunta 1, tomando en cuenta los datos más relevantes y agregue filtros para distintos criterios de visualización
